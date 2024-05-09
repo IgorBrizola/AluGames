@@ -1,16 +1,37 @@
 package org.example
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-fun main() {
-    val name = "Kotlin"
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-    // to see how IntelliJ IDEA suggests fixing it.
-    println("Hello, " + name + "!")
+import java.net.URI
+import java.net.http.HttpClient
+import java.net.http.HttpRequest
+import java.net.http.HttpResponse.BodyHandlers
 
-    for (i in 1..5) {
-        //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-        // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        println("i = $i")
-    }
+
+fun main() {
+
+    val client: HttpClient = HttpClient.newHttpClient()
+    val request = HttpRequest.newBuilder()
+        .uri(URI.create("https://www.cheapshark.com/api/1.0/games?id=146"))
+        .build()
+
+
+    val response = client
+        .send(request, BodyHandlers.ofString())
+
+
+    val json = response.body()
+
+//    print(json)
+
+    val meuJogo = Jogo(
+        "Batman: Arkham Edition",
+        "https:\\/\\/cdn.cloudflare.steamstatic.com\\/steam\\/apps\\/35140\\/capsule_sm_120.jpg?t=1702934705")
+
+    println(meuJogo)
+
+    val novoJogo = Jogo(
+            "Batman: Arkham Edition Deluxe",
+    "https:\\/\\/cdn.cloudflare.steamstatic.com\\/steam\\/apps\\/35140\\/capsule_sm_120.jpg?t=1702934705")
+
+    println(novoJogo)
+
 }
