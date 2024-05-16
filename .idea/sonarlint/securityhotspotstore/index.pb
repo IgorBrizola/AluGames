@@ -44,8 +44,6 @@ G.idea/sonarlint/issuestore/0/f/0f849fffd9a2578bd312d28a06ffff34d1b97dc6,6\7\67
 w
 G.idea/sonarlint/issuestore/0/a/0a81d4f592f1cb5a7264096500c553e2d504182b,3\8\38016be9fe2c416d0f0962b910c76a205d0fa7b4
 w
-G.idea/sonarlint/issuestore/2/c/2cabb939da04d3de3a200bf2b575690e1a16316d,1\0\10f2119b18de4c2d93011c2acd27301df22c2983
-w
 G.idea/sonarlint/issuestore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482,3\0\30f9777ea696a18aa49d3e9967e93a4276065227
 Å
 Q.idea/sonarlint/securityhotspotstore/e/9/e9db93b99db00a8807ddea6c032243572d5ea295,5\b\5b5ab7c38bb5a1c9b3f6162c324fcf8418cdec52
@@ -67,3 +65,15 @@ g
 Q.idea/sonarlint/securityhotspotstore/5/0/503a898f65b68d48c14954c4b3a6c03955c72352,0\6\067ac3c63d166b05077a447e703cfe98ea2b8b03
 Å
 Q.idea/sonarlint/securityhotspotstore/b/5/b5b22753b4952453316d73b5e7e342edb58849ea,8\d\8d63593612ce93b07d450817136830aa0e4d7cc6
+o
+?src/main/kotlin/br/com/aluGames/ultilitarios/StringExtension.kt,4\4\444e61779d318396bf951f76746a1b53a57a5af2
+Å
+Q.idea/sonarlint/securityhotspotstore/4/4/444e61779d318396bf951f76746a1b53a57a5af2,9\7\978f61ac80802d0a38c6e2e5f0c1dc965485160a
+Å
+Q.idea/sonarlint/securityhotspotstore/0/6/067ac3c63d166b05077a447e703cfe98ea2b8b03,d\c\dc027450409914401f30422c5149f388fc9cb6be
+w
+G.idea/sonarlint/issuestore/8/d/8d63593612ce93b07d450817136830aa0e4d7cc6,b\9\b9cc9c7a532d294492973ae13781beaabe4d9bd6
+Å
+Q.idea/sonarlint/securityhotspotstore/8/d/8d63593612ce93b07d450817136830aa0e4d7cc6,9\8\98ada5ea3d83f07a2796328e956af92a1dafe3c9
+w
+G.idea/sonarlint/issuestore/0/6/067ac3c63d166b05077a447e703cfe98ea2b8b03,d\c\dc3b63d484ed74c012397cf3fc23aef326f4ce0b

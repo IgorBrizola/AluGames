@@ -10,8 +10,7 @@ data class Jogo(
     var descricao:String? = null
 
     override fun toString(): String {
-        return "Meu Jogo: \n" +
-                "Título: $titulo\n" +
+        return "Título: $titulo\n" +
                 "Capa: $capa\n" +
                 "Descricao: $descricao\n"
     }

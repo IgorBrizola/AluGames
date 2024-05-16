@@ -1,2 +1,3 @@
 
-¦kotlin:S6532"\Replace this if expression with require(!(nome.isNullOrBlank())) { "nome estÃ¡ em branco" }.(Æ’€äúÿÿÿÿ8ø ïÅ÷1J$fa22283c-8434-4888-8c87-d1a1e073b947
+hkotlin:S125"Remove this commented out code.(È¾•—ÿÿÿÿÿ8®á ø1J$32839fff-5f51-4f7f-8769-9429eb24bf30
+‹kotlin:S6510J"AMove "return" statements from all branches before "if" statement.(½ÇÂ°ùÿÿÿÿ8÷€òø1J$4cc949ba-669b-4992-bd18-0b4be9c72b24
