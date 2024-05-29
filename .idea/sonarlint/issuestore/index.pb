@@ -141,3 +141,5 @@ w
 G.idea/sonarlint/issuestore/d/c/dc3b63d484ed74c012397cf3fc23aef326f4ce0b,1\7\17936e786e351ce2441edf35c412a3b142d45c95
 w
 G.idea/sonarlint/issuestore/d/4/d4c2ba42a5a6d7028b71767d5684824ed9d652d8,3\8\38148f6170b22b212d1aa39f5b178654656d86ac
+f
+6src/main/kotlin/br/com/aluGames/modelo/Recomendavel.kt,f\0\f07b45dee02b7898f60de5803a90ca08a1376dab
