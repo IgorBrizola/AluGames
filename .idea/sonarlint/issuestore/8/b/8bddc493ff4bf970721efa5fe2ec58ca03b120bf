@@ -1,10 +1,20 @@
 
-hkotlin:S125""Remove this commented out code.(¿š••ÿÿÿÿÿ8ñÀ£ü1J$8aad8c40-5751-4d61-b6f1-b59e8e7df3c5
-rkotlin:S1481"-Remove this unused "periodo4" local variable.(Ó‹ŒÓ8ÖÄ£ü1J$b29283e7-557f-445a-b259-16acc1192a0e
-qkotlin:S6518",Replace function call with indexed accessor.(¬Øö‡8™ñÀ£ü1J$05a65628-0e94-4f33-99dc-368fa5839d5e
-qkotlin:S6518",Replace function call with indexed accessor.(ºÀ¹‰8™ñÀ£ü1J$e4ce3b3e-ecd7-4f84-b8d8-e1ff4748d5ca
-qkotlin:S6518",Replace function call with indexed accessor.(ƒ¨±“8™ñÀ£ü1J$56aec8b1-be63-406e-962d-d0755d47f3f5
-vkotlin:S6518",Replace function call with indexed accessor.(êğ…“üÿÿÿÿ8šñÀ£ü1J$a79d5ca9-4e43-4390-a748-6852a4ffc5e2
-qkotlin:S6518",Replace function call with indexed accessor.(¥é˜÷8šñÀ£ü1J$73642ad2-8161-4ca1-9198-b410c25f0b7f
-vkotlin:S6518",Replace function call with indexed accessor.(€êğ‰şÿÿÿÿ8šñÀ£ü1J$58f76b61-c725-4b82-a97d-d0faa78af750
-qkotlin:S6518$",Replace function call with indexed accessor.(£« 8šñÀ£ü1J$06321947-252e-42f3-8fdd-ef8656f03d10
+hkotlin:S125"Remove this commented out code.(¿š••ÿÿÿÿÿ8¬Î¤ü1J$7d80a2e5-42da-4aa6-a59d-59df7f1ba218
+hkotlin:S125A"Remove this commented out code.(ãùõ‰şÿÿÿÿ8­Î¤ü1J$a7cdb908-9b99-4df2-8f92-10f2f1e39617
+hkotlin:S125L"Remove this commented out code.(ãùõ‰şÿÿÿÿ8­Î¤ü1J$861221f8-2688-457f-b987-e357cb3dd28d
+rkotlin:S1481"-Remove this unused "periodo4" local variable.(Ó‹ŒÓ8³Î¤ü1J$6be560b2-748b-4cad-a227-9d76959a839b
+qkotlin:S6518",Replace function call with indexed accessor.(ºÀ¹‰8»Î¤ü1J$24fdd9f1-4178-4f8f-bd9f-17874f75eac0
+qkotlin:S6518",Replace function call with indexed accessor.(ƒ¨±“8»Î¤ü1J$ec413790-808b-433d-a99b-146c6b489990
+vkotlin:S6518",Replace function call with indexed accessor.(êğ…“üÿÿÿÿ8»Î¤ü1J$8d8221f7-8c9b-40b1-ba88-82e68e4e5523
+qkotlin:S6518",Replace function call with indexed accessor.(¥é˜÷8»Î¤ü1J$9b25553f-d36f-4da7-a13a-1980c4fbd76b
+vkotlin:S6518",Replace function call with indexed accessor.(€êğ‰şÿÿÿÿ8»Î¤ü1J$e1e9b1bd-bb1b-4220-b830-632aeb15574b
+qkotlin:S6518!",Replace function call with indexed accessor.(£« 8»Î¤ü1J$4d67bf38-950d-4e4c-9f8b-c7ace78fe492
+qkotlin:S6518#",Replace function call with indexed accessor.(¬Øö‡8»Î¤ü1J$503ca9db-f4f9-4223-b327-ba17b9242353
+vkotlin:S6518$",Replace function call with indexed accessor.(åÇ†Óúÿÿÿÿ8¼Î¤ü1J$15c4c1df-e841-4c38-89cf-f5d19b214adc
+vkotlin:S6518%",Replace function call with indexed accessor.(öŠÁ¡øÿÿÿÿ8¼Î¤ü1J$76b7c12a-13e9-4a04-acc5-3b33f780a1fa
+vkotlin:S6518&",Replace function call with indexed accessor.(ØËëõşÿÿÿÿ8¼Î¤ü1J$bdafc79f-8ad9-49d8-8fb4-8c8517a380ba
+vkotlin:S6518'",Replace function call with indexed accessor.(íúì€ÿÿÿÿÿ8¼Î¤ü1J$2a31de85-1cbe-4d6f-ac4d-3bb6906b3021
+qkotlin:S6518(",Replace function call with indexed accessor.(ß’åÉ8¼Î¤ü1J$c72bc00b-04f6-4160-9465-2e88a8ee28db
+vkotlin:S6518)",Replace function call with indexed accessor.(¹­ÙÉşÿÿÿÿ8¼Î¤ü1J$579210ec-9ff8-442e-8b14-7f2891437ccc
+vkotlin:S6518*",Replace function call with indexed accessor.(¾‰§ƒşÿÿÿÿ8¼Î¤ü1J$5476908c-49ab-43c8-8ef1-554f239472b0
+vkotlin:S6518+",Replace function call with indexed accessor.(‹ñ¤Ğüÿÿÿÿ8¼Î¤ü1J$c10cc7a4-a954-4467-aad8-c890a68abd29

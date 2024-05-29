@@ -143,3 +143,7 @@ w
 G.idea/sonarlint/issuestore/d/4/d4c2ba42a5a6d7028b71767d5684824ed9d652d8,3\8\38148f6170b22b212d1aa39f5b178654656d86ac
 f
 6src/main/kotlin/br/com/aluGames/modelo/Recomendavel.kt,f\0\f07b45dee02b7898f60de5803a90ca08a1376dab
+F
+jogosRecomendados.json,1\1\11906c7c8b5c697694efb6578695bd203c9f3856
+o
+?src/main/kotlin/br/com/aluGames/ultilitarios/DoubleExtension.kt,4\5\459dbe5bb9c19104e6189477bdf9056eb84d0192
